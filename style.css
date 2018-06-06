@@ -45,7 +45,7 @@ h3 {
 @media (max-width: 480px) {
     h1 {
         font-size: 3rem;
-        line-height: 1.5rem; }
+        line-height: 3rem; }
 
     h2 {
         font-size: 3rem; }
