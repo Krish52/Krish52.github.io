@@ -19,7 +19,7 @@ body {
     } }
 @media (max-width: 480px) {
     body {
-        padding-top: 2rem;
+        padding-top: 5rem;
     }  }
 
 h1,
