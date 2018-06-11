@@ -203,24 +203,3 @@ a:hover, a:focus, a:active {
 i{
     font-size: large;
 }
-
-@media (max-width: 480px) {
-    .dropdown{
-        display: flex;
-        flex-wrap: wrap;
-        flex-direction:column;
-    }
-    .dropdown > .dropdown-title{
-        /* put the height and width here! */
-    }
-    .dropdown > .dropdown-sub{
-        display: none;
-        z-index: 1;
-        flex-direction: column; /* or row */
-    }
-    .dropdown:hover > .dropdown-sub {
-        display: flex;
-    }.dropdown:hover > .dropdown-sub  > .dropdown-option:hover{
-         background-color: #abcdef;
-     }
-}
