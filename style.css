@@ -132,7 +132,7 @@ h3 {
     #sideNav {
         flex-direction: Row;
         width: 100%;
-        height: 10vh;
+        height: 5vh;
         justify-content: space-around; }
     #sideNav .navbar-brand {
         display: flex;
