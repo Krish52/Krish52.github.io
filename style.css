@@ -19,7 +19,7 @@ body {
     } }
 @media (max-width: 480px) {
     body {
-        padding-top: 5rem;
+        padding-top: 2rem;
     }  }
 
 h1,
@@ -45,7 +45,7 @@ h3 {
 @media (max-width: 480px) {
     h1 {
         font-size: 3rem;
-        line-height: 6rem; }
+        line-height: 1.5rem; }
 
     h2 {
         font-size: 3rem; }
@@ -143,6 +143,8 @@ h3 {
         display: flex;
         width: 100%;
         margin-bottom: auto; }
+
+}
 
 .subheading {
     text-transform: uppercase;
